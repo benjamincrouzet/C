@@ -1,0 +1,7 @@
+﻿  information pour embauche.c
+  ntm.c
+  Génération de code en cours...
+C:\Users\benji\OneDrive\Bureau\code\Project1\Project1\ntm.c(14,43): warning C4013: '_countof' non défini(e) ; extern retournant int pris par défaut
+ntm.obj : error LNK2005: main déjà défini(e) dans information pour embauche.obj
+ntm.obj : error LNK2019: symbole externe non résolu _countof référencé dans la fonction main
+C:\Users\benji\OneDrive\Bureau\code\Project1\x64\Debug\Cours John Wick.exe : fatal error LNK1120: 1 externes non résolus
