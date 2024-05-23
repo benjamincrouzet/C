@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (vacance.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Source.c
+C:\Users\benji\OneDrive\Bureau\code\vacance\vacance\Source.c(25,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\benji\OneDrive\Bureau\code\vacance\vacance\Source.c(21,7): warning C4101: 'choix' : variable locale non référencée
+  vacance.vcxproj -> C:\Users\benji\OneDrive\Bureau\code\vacance\x64\Debug\vacances.exe
